@@ -4,7 +4,7 @@ Docker container for [figlet](http://www.figlet.org/) based on [Alpine Linux](ht
 
 ### Build
 
-```sh
+```
 docker build --no-cache -t figlet .
 ```
 
@@ -12,7 +12,7 @@ docker build --no-cache -t figlet .
 
 Usage: 
 
-```sh
+```
 docker run --rm figlet Hello world!
 ```
 
